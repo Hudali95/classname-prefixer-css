@@ -1,0 +1,29 @@
+{
+  "name": "classname-prefixer-css",
+  "version": "1.0.0",
+  "description": "Webpack loader to dynamically update the classnames with the given prefix",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hudali95/classname-prefixer-css.git"
+  },
+  "keywords": [
+    "webpack",
+    "webpack-loader",
+    "css-prefix",
+    "classnames",
+    "css"
+  ],
+  "author": "Mahesh Hudali",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Hudali95/classname-prefixer-css/issues"
+  },
+  "homepage": "https://github.com/Hudali95/classname-prefixer-css#readme",
+  "dependencies": {
+    "css-tree": "^3.0.0"
+  }
+}
