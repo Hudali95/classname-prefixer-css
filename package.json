@@ -1,6 +1,6 @@
 {
   "name": "classname-prefixer-css-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Webpack loader to dynamically update the classnames with the given prefix",
   "main": "index.js",
   "scripts": {
